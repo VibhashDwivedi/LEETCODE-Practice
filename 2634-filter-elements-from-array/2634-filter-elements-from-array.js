@@ -4,5 +4,14 @@
  * @return {number[]}
  */
 var filter = function(arr, fn) {
-    return arr.filter((n,i)=> {return fn(n,i)})
+     const filteredArray=[]
+     x=0;
+    for(let i=0;i<arr.length;i++)
+        {
+            if( fn(arr[i],i)){
+                filteredArray[x]= arr[i] 
+                x++;
+            }
+        }
+    return filteredArray
 };
