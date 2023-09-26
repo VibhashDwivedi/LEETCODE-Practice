@@ -8,10 +8,10 @@ public:
             temp.insert(v);
             return;
         }
-         v.push_back(nums[i]);
+         
         helper(i+1, nums, v, temp);
-        
-      v.pop_back();
+        v.push_back(nums[i]);
+      
         
         helper(i+1, nums, v, temp);
        
