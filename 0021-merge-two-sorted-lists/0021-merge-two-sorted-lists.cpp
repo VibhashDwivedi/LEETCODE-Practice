@@ -11,54 +11,65 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-      ListNode *list3= new ListNode();
-        ListNode * last;
+        
+        ListNode *ans = new ListNode();
+        ListNode *temp = new ListNode();
+        ListNode *p;
         if(list1 == NULL)
             return list2;
-        if(list2== NULL)
+        if(list2 == NULL)
             return list1;
-        if(list1 == NULL && list2== NULL)
-return NULL;
-        
-     if( list1->val<list2->val)
-     {
-         list3= new ListNode(list1->val);
-         list1=list1->next;
-         
-      }
-        else 
+        if(list1->val < list2->val)
         {
-            list3= new ListNode(list2->val);
-            list2=list2->next;
+            ans = new ListNode(list1->val);
+            list1= list1->next;
+        }
+        else{
+            ans = new ListNode(list2->val);
+            list2 = list2->next;
+        }
+        p= ans;
+        while(list1 && list2)
+        {
+            if(list1->val < list2->val)
+        {
+            temp = new ListNode(list1->val);
+            p->next= temp;
+            p= temp;    
+            list1= list1->next;
+        }
+        else{
+            temp = new ListNode(list2->val);
+             p->next= temp;
+            p= temp;
+            list2 = list2->next;
+        } 
+            
         }
         
-        last=list3;
-        last->next=NULL;
-       
-        while(list1!=NULL && list2!=NULL)
+        while(list1)
         {
-             if(list1->val<list2->val)
-     {
-         last->next= list1;
-                 last=list1;
-                 
-         list1=list1->next;
-                 last->next=NULL;
-      }
-            else
-            {
-                last->next= list2;
-                 last=list2;
-                 
-         list2=list2->next;
-                 last->next=NULL;
-                
-}
+            temp = new ListNode(list1->val);
+           
+            p->next= temp;
+            p= temp;    
+            list1= list1->next;
         }
-        if(list1!= NULL)
-            last->next=list1;
-        else
-            last->next=list2;
-        return list3;
+        
+        while(list2)
+        
+        {
+             temp = new ListNode(list2->val);
+             p->next= temp;
+            p= temp;
+            list2 = list2->next;
+        }  
+        
+        
+        
+        
+        return ans;
+        
+        
     }
 };
