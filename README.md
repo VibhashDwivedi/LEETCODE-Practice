@@ -34,6 +34,7 @@ Leetcode Solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -44,6 +45,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## String Matching
 |  |
 | ------- |
@@ -62,4 +64,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
