@@ -36,6 +36,7 @@ Leetcode Solutions
 | [2358-number-of-ways-to-split-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -43,6 +44,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
