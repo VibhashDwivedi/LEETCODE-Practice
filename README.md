@@ -30,6 +30,7 @@ Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1876-map-of-highest-peak) |
@@ -79,6 +80,7 @@ Leetcode Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -92,6 +94,7 @@ Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2145-grid-game) |
@@ -100,4 +103,16 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
