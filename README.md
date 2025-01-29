@@ -81,6 +81,7 @@ Leetcode Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -89,6 +90,7 @@ Leetcode Solutions
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -111,12 +113,14 @@ Leetcode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Counting
