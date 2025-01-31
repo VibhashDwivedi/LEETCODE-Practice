@@ -30,6 +30,7 @@ Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1524-string-matching-in-an-array) |
@@ -83,6 +84,7 @@ Leetcode Solutions
 | ------- |
 | [0684-redundant-connection](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1876-map-of-highest-peak) |
@@ -102,6 +104,7 @@ Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1876-map-of-highest-peak) |
@@ -117,12 +120,14 @@ Leetcode Solutions
 | ------- |
 | [0684-redundant-connection](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
