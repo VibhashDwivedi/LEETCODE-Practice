@@ -32,6 +32,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1524-string-matching-in-an-array) |
@@ -54,6 +55,7 @@ Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
@@ -140,6 +142,7 @@ Leetcode Solutions
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Topological Sort
