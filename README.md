@@ -52,6 +52,7 @@ Leetcode Solutions
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Leetcode Solutions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,4 +151,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/0820-find-eventual-safe-states) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
