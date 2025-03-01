@@ -45,6 +45,7 @@ Leetcode Solutions
 | [2358-number-of-ways-to-split-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -154,5 +155,10 @@ Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
