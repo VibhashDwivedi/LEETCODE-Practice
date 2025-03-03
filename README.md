@@ -49,6 +49,7 @@ Leetcode Solutions
 | [2551-apply-operations-to-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -62,6 +63,7 @@ Leetcode Solutions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
 |  |
@@ -164,4 +166,5 @@ Leetcode Solutions
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
