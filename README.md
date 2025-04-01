@@ -41,6 +41,7 @@ Leetcode Solutions
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2145-grid-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2358-number-of-ways-to-split-array) |
@@ -171,4 +172,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/VibhashDwivedi/LEETCODE-Practice/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
